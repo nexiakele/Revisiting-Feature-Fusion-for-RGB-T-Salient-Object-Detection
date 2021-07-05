@@ -1,4 +1,4 @@
-# Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection
-The official repo of the TCSVT paper: 'Employing Bilinear Fusion and Saliency Prior Information for RGB-D Salient Object Detection'.
+# Revisiting Feature Fusion for RGB-T Salient Object Detection
+The official repo of the TCSVT paper: 'Revisiting Feature Fusion for RGB-T Salient Object Detection'.
 
 
